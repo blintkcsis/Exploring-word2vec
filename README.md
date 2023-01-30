@@ -1,6 +1,6 @@
-
-
-![Simpson's image from WikiPedia](https://user-images.githubusercontent.com/45124913/215531489-e6f9efa2-c86f-4f73-b226-05d542159ffa.png)
+<div style="text-align:center">
+<img src="https://user-images.githubusercontent.com/45124913/215531489-e6f9efa2-c86f-4f73-b226-05d542159ffa.png" width=400 alt ="Simpson's image from WikiPedia">
+</div>
 
 # Explorations on word2vec algorithm on dialogue from Simpson's
 
