@@ -4,7 +4,10 @@
 
 # Explorations on word2vec algorithm on dialogue from Simpson's
 
-As a first exploration I looked into different implementations of word2vec. Quickly found 'gensim', which as far as i know, is the first implementation of the original algorithm we explored in class for INST0075. It also seems relatively widely used and quickly found many example tutorials. Using the dialouge from 27 seasons of The Simpson's seemed like a silly enough way to get started without much plan. This project could be broken down into three parts (1) following the original tutorial (referenced later) to clean, initialize and train the model on all dialouges, then (2) looking into new ways to understand the results and (3) aggregating dialoges by character to understand how characters are represented by what they say.
+As a first exploration I looked into different implementations of word2vec. Quickly found 'gensim', which as far as i know, is the first implementation of the original algorithm we explored in class for INST0075. It also seems relatively widely used and quickly found many example tutorials. Using the dialouge from 27 seasons of The Simpson's seemed like a silly enough way to get started without much plan. This project could be broken down into three parts:
+1. following the original tutorial (referenced later) to clean, initialize and train the model on all dialouges
+2. looking into new ways to understand the results 
+3. aggregating dialoges by character to understand how characters are represented by what they say.
 
 
 ## Code dependencies from the following libraries:
