@@ -24,3 +24,6 @@ Python          3.8.15
 Much of the first half directly comes from [this](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial/notebook#Materials-for-more-in-depths-understanding:) tutorial. It also points to the used dataset, which is available [here](https://www.kaggle.com/code/ambarish/fun-in-text-mining-with-simpsons/data). 
 
 The whole code is ran through the jupyter notebook, which also explains everything as it is ran. The original visualisation is referenced from another tutorial and the last exploration is largely my own code.
+
+---
+Simpsons picture from [Wikipedia](https://www.google.com/search?client=safari&rls=en&q=simpson+wikipedia&ie=UTF-8&oe=UTF-8)
