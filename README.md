@@ -12,13 +12,13 @@ As a first exploration I looked into different implementations of word2vec. Quic
 
 ## Code dependencies from the following libraries:
 
+Python          3.8.15
 * gensim        4.3.0
 * scikit-learn  1.2.1
 * plotly        5.13.0
 * spacy         3.5.0
 * seaborn       0.12.2
 
-Python          3.8.15
 
 
 Much of the first half directly comes from [this](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial/notebook#Materials-for-more-in-depths-understanding:) tutorial. It also points to the used dataset, which is available [here](https://www.kaggle.com/code/ambarish/fun-in-text-mining-with-simpsons/data). 
