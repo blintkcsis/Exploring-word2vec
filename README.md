@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div style="text-align:center" width=100%>
 <img src="https://user-images.githubusercontent.com/45124913/215531489-e6f9efa2-c86f-4f73-b226-05d542159ffa.png" width=400 alt ="Simpson's image from WikiPedia">
 </div>
 
