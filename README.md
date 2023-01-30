@@ -1,6 +1,6 @@
 
 
-![image](https://user-images.githubusercontent.com/45124913/215531489-e6f9efa2-c86f-4f73-b226-05d542159ffa.png)
+![Simpson's image from WikiPedia](https://user-images.githubusercontent.com/45124913/215531489-e6f9efa2-c86f-4f73-b226-05d542159ffa.png)
 
 # Explorations on word2vec algorithm on dialogue from Simpson's
 
@@ -9,11 +9,11 @@ As a first exploration I looked into different implementations of word2vec. Quic
 
 ## Code dependencies from the following libraries:
 
-gensim        4.3.0
-scikit-learn  1.2.1
-plotly        5.13.0
-spacy         3.5.0
-seaborn       0.12.2
+* gensim        4.3.0
+* scikit-learn  1.2.1
+* plotly        5.13.0
+* spacy         3.5.0
+* seaborn       0.12.2
 
 Python          3.8.15
 
