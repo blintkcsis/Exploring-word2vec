@@ -12,7 +12,7 @@ As a first exploration I looked into different implementations of word2vec. Quic
 
 ## Code dependencies from the following libraries:
 
-Python          3.8.15
+Python          3.8.15 (gensim does not support the newest versions of python at the time of writing)
 * gensim        4.3.0
 * scikit-learn  1.2.1
 * plotly        5.13.0
